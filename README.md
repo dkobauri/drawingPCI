@@ -1,4 +1,4 @@
-# TAO PCI training
+# TAO PCI
 
 To get this extension in your TAO installation, modify your root composer.json as follow:
 
