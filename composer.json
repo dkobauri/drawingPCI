@@ -18,7 +18,7 @@
         "GPL-2.0"
     ],
     "extra" : {
-        "tao-extension-name" : "drawingpci"
+        "tao-extension-name" : "drawingPCI"
     },
     "minimum-stability" : "dev",
     "require": {
@@ -29,7 +29,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "oat\\drawingpci\\" : ""
+            "oat\\drawingPCI\\" : ""
         }
     }
 }
