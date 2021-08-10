@@ -28,7 +28,7 @@ use oat\taoQtiItem\model\portableElement\action\RegisterPortableElement;
  * Usage:
  * sudo -u www-data php index.php '\oat\trainingPci\scripts\install\RegisterPciSampleA'
  *
- * @package oat\drawing\scripts\install
+ * @package oat\drawingPCI\scripts\install
  */
 class RegisterPciSampleA extends RegisterPortableElement
 {
