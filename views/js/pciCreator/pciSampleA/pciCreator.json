@@ -1,6 +1,6 @@
 {
     "typeIdentifier": "pciSampleA",
-    "label": "Likert Scale Sample",
+    "label": "Drawing Sample",
     "short": "Drawing",
     "description": "A simple implementation of likert scale for PCI training purpose.",
     "version": "0.1.0",
