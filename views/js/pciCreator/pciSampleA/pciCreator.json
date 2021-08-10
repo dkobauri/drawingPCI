@@ -2,10 +2,10 @@
     "typeIdentifier": "pciSampleA",
     "label": "Drawing Sample",
     "short": "Drawing",
-    "description": "A simple implementation of likert scale for PCI training purpose.",
+    "description": "A simple implementation of drawing PCI for training purpose.",
     "version": "0.1.0",
-    "author": "Sam Sipasseuth",
-    "email": "sam@taotesting.com",
+    "author": "Davit Kobauri",
+    "email": "kobauri.dato@gmail.com",
     "tags": [
         "mcq",
         "likert"
