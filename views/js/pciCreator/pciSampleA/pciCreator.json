@@ -18,7 +18,7 @@
         "hook" : "./runtime/pciSampleA.js"
     },
     "creator" : {
-        "icon": "./creator/img/icon.svg",
+        "icon": "./creator/img/easle.png",
         "hook": "./pciCreator.js",
         "libraries" : [
             "./creator/tpl/markup.tpl",
